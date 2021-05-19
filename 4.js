@@ -1,3 +1,4 @@
-function test(){
-	return "test";
+function test(firstname , lastname)
+{
+	return firstname + " " + lastname;
 }
